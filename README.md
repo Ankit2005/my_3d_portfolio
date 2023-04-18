@@ -1,6 +1,6 @@
 # 3D Portfolio Website with Three.js and React.js
 
-![3D Portfolio](https://ibb.co/H4vYYvR)
+![3D Portfolio](https://drive.google.com/file/d/1sekHaAJQvZYAcspzlDR9jbR8F6CPlPep/view?usp=share_link)
 
 ## Introduction
 
