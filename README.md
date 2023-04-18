@@ -1,6 +1,6 @@
 # 3D Portfolio Website with Three.js and React.js
 
-![3D Portfolio](https://drive.google.com/file/d/1sekHaAJQvZYAcspzlDR9jbR8F6CPlPep/view?usp=share_link)
+![3D Portfolio](https://i.ibb.co/ZXsKKsv/Orange-and-Blue-3-D-Elements-Technology-in-Business-and-at-Work-Presentation.png)
 
 ## Introduction
 
